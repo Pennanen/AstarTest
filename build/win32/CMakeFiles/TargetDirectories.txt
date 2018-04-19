@@ -1,0 +1,3 @@
+C:/Users/MatiasPen/Desktop/pathfinding_vs/build/win32/CMakeFiles/pathfinding.dir
+C:/Users/MatiasPen/Desktop/pathfinding_vs/build/win32/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatiasPen/Desktop/pathfinding_vs/build/win32/CMakeFiles/ZERO_CHECK.dir

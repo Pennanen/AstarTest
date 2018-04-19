@@ -1,0 +1,17 @@
+﻿Build started 19.4.2018 11:07:07.
+     1>Project "C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\path_finding.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\ /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt pathfinding.cpp
+         pathfinding.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\Debug\path_finding.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\mikkorom\Desktop\pathfinding_vs\glut /LIBPATH:C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\..\glut glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\Debug\path_finding.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\Debug\path_finding.lib" /MACHINE:X86 Debug\Closed.obj
+         Debug\Open.obj
+         Debug\pathfinding.obj
+         Debug\Node.obj
+         Debug\Search.obj
+         path_finding.vcxproj -> C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\Debug\path_finding.exe
+     1>Done Building Project "C:\Users\MatiasPen\Desktop\pathfinding_MatiasPennanen_new\path_finding\path_finding.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57
